@@ -52,6 +52,11 @@
   <img src="https://img.shields.io/badge/Data Studio-4284f3?style=for-the-badge&logo=gooogle&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-185C37?style=for-the-badge&logo=microsoft&logoColor=black" />
   <img src="https://img.shields.io/badge/PowerBI-F1CB18?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+
+### DevOps
+<p align="left">
   <img src="https://img.shields.io/badge/WHM cPanel-EE6936?style=for-the-badge&logo=whm&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
@@ -62,16 +67,19 @@
 
 ### Contatos
 <p align="left">
-  <a href="https://www.linkedin.com/in/marcos-victor/">
-    <img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/marcos-victor/" style="text-decoration: none">
+    <img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/marcosvixtor/">
-    <img loading="lazy" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/marcosvixtor/" style="text-decoration: none">
+    <img loading="lazy" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F??style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:contato@marcosvoliveira.com">
-    <img loading="lazy" alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:contato@marcosvoliveira.com" style="text-decoration: none">
+    <img loading="lazy" alt="Gmail" src="https://img.shields.io/badge/contato@marcosvoliveira.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://marcosvoliveira.com">
-    <img loading="lazy" alt="Website" src="https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <a href="https://marcosvoliveira.com" style="text-decoration: none">
+    <img loading="lazy" alt="Website" src="https://img.shields.io/badge/Website-D14836?style=flat-square&logo=wordpress&logoColor=white"/>
+  </a>
+  <a href="https://github.com/marcosvixtor" style="text-decoration: none">
+    <img src="https://img.shields.io/github/followers/marcosvixtor?label=follow&style=social" alt="GitHub Marcos Oliveira" data-canonical-src="https://img.shields.io/github/followers/marcosvixtor?label=follow&amp;style=social" style="max-width: 100%;">
   </a>
 </p>
