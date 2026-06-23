@@ -8,10 +8,10 @@
 
 <hr />
 🔸 Desenvolvimento Web<br />
+🔸 Prototipação de Aplicações<br />
 🔸 Design to Code<br />
 🔸 Otimização e Performance<br />
 🔸 Landing Pages de Lançamentos<br />
-🔸 Desenvolvimento Web<br />
 🔸 Testes A/B monitorados<br />
 🔸 Análise de dados<br />
 <hr />
