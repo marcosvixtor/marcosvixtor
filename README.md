@@ -1,6 +1,6 @@
 ## Ei, eu sou o Marcos!
 
-<img align="right" src="https://raw.githubusercontent.com/marcosvixtor/Marcos/refs/heads/master/cat-laptop.gif" width="120">
+<img align="right" src="https://raw.githubusercontent.com/marcosvixtor/marcosvixtor/refs/heads/main/cat-laptop.gif" width="220">
 
   - :sparkles: Meu nome é Marcos Oliveira.
   - :technologist: Formado em Web Design e Progrmação Web.
