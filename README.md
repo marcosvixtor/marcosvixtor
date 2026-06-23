@@ -69,7 +69,7 @@
     <img loading="lazy" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:contato@marcosvoliveira.com">
-    <img loading="lazy" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img loading="lazy" alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://marcosvoliveira.com">
     <img loading="lazy" alt="Website" src="https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=wordpress&logoColor=white"/>
