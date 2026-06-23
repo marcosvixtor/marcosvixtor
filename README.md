@@ -17,8 +17,8 @@
 <hr />
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=marcosvixtor&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical" alt="Marcos stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=marcosvixtor&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula" />
+  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=marcosvixtor&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical&v=2" alt="Marcos stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=marcosvixtor&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula&v=2" />
 </div>
 
 ---
