@@ -67,19 +67,19 @@
 
 ### Contatos
 <p align="left">
-  <a href="https://www.linkedin.com/in/marcos-victor/" style="text-decoration: none">
+  <a href="https://www.linkedin.com/in/marcos-victor/" style="text-decoration: none; width: fit-content; display: inline-block;">
     <img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/marcosvixtor/" style="text-decoration: none">
+  <a href="https://www.instagram.com/marcosvixtor/" style="text-decoration: none; width: fit-content; display: inline-block;">
     <img loading="lazy" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F??style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:contato@marcosvoliveira.com" style="text-decoration: none">
+  <a href="mailto:contato@marcosvoliveira.com" style="text-decoration: none; width: fit-content; display: inline-block;">
     <img loading="lazy" alt="Gmail" src="https://img.shields.io/badge/contato@marcosvoliveira.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://marcosvoliveira.com" style="text-decoration: none">
-    <img loading="lazy" alt="Website" src="https://img.shields.io/badge/Website-D14836?style=flat-square&logo=wordpress&logoColor=white"/>
+  <a href="https://marcosvoliveira.com" style="text-decoration: none; width: fit-content; display: inline-block;">
+    <img loading="lazy" alt="Website" src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=web&logoColor=white"/>
   </a>
-  <a href="https://github.com/marcosvixtor" style="text-decoration: none">
+  <a href="https://github.com/marcosvixtor" style="text-decoration: none; width: fit-content; display: inline-block;">
     <img src="https://img.shields.io/github/followers/marcosvixtor?label=follow&style=social" alt="GitHub Marcos Oliveira" data-canonical-src="https://img.shields.io/github/followers/marcosvixtor?label=follow&amp;style=social" style="max-width: 100%;">
   </a>
 </p>
