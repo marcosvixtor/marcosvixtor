@@ -1,4 +1,4 @@
-## Oi!
+## Ei, eu sou o Marcos!
 
 <img align="right" src="https://raw.githubusercontent.com/marcosvixtor/Marcos/refs/heads/master/cat-laptop.gif" width="120">
 
@@ -6,15 +6,15 @@
   - :technologist: Formado em Web Design e Progrmação Web.
   - 💡 Atualmente esturando análise de dados e BI.
 
-============================
-🔸 Desenvolvimento Web
-🔸 Design to Code
-🔸 Otimização e Performance
-🔸 Landing Pages de Lançamentos
-🔸 Desenvolvimento Web
-🔸 Testes A/B monitorados
-🔸 Análise de dados
-============================
+<hr />
+🔸 Desenvolvimento Web<br />
+🔸 Design to Code<br />
+🔸 Otimização e Performance<br />
+🔸 Landing Pages de Lançamentos<br />
+🔸 Desenvolvimento Web<br />
+🔸 Testes A/B monitorados<br />
+🔸 Análise de dados<br />
+<hr />
 
 <div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=marcosvixtor&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical" alt="Marcos stats"/> 
