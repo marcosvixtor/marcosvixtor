@@ -4,7 +4,7 @@
 
   - :sparkles: Meu nome é Marcos Oliveira.
   - :technologist: Formado em Web Design e Progrmação Web.
-  - 💡 Atualmente esturando análise de dados e BI.
+  - 💡 Atualmente estudando análise de dados e BI.
 
 <hr />
 🔸 Desenvolvimento Web<br />
