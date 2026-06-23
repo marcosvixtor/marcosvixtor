@@ -6,6 +6,16 @@
   - :technologist: Formado em Web Design e Progrmação Web.
   - 💡 Atualmente esturando análise de dados e BI.
 
+============================
+🔸 Desenvolvimento Web
+🔸 Design to Code
+🔸 Otimização e Performance
+🔸 Landing Pages de Lançamentos
+🔸 Desenvolvimento Web
+🔸 Testes A/B monitorados
+🔸 Análise de dados
+============================
+
 <div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=marcosvixtor&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical" alt="Marcos stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=marcosvixtor&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula" />
@@ -42,6 +52,7 @@
   <img src="https://img.shields.io/badge/Data Studio-4284f3?style=for-the-badge&logo=gooogle&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-185C37?style=for-the-badge&logo=microsoft&logoColor=black" />
   <img src="https://img.shields.io/badge/PowerBI-F1CB18?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/WHM cPanel-EE6936?style=for-the-badge&logo=whm&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
